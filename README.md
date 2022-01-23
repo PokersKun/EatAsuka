@@ -16,8 +16,6 @@ _🦌 网页小游戏 🥛_
 
 浏览量超10,000,000+
 
-线上版本:https://xingye.me/game/EatAsuka/index.php
-
 Github Page:https://PokersKun.github.io/EatAsuka/index.html
 
 ## 可选功能
