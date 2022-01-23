@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/EatAsuka"><img src="https://github.com/PokersKun/EatAsuka/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatAsuka"></a>
 </p>
 <div align="center">
 
-# EatKano
+# EatAsuka
 
 _🦌 网页小游戏 🥛_
 
@@ -16,9 +16,9 @@ _🦌 网页小游戏 🥛_
 
 浏览量超10,000,000+
 
-线上版本:https://xingye.me/game/eatkano/index.php
+线上版本:https://xingye.me/game/EatAsuka/index.php
 
-Github Page:https://arcxingye.github.io/EatKano/index.html
+Github Page:https://PokersKun.github.io/EatAsuka/index.html
 
 ## 可选功能
 
