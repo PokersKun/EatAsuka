@@ -16,7 +16,7 @@ _🦌 网页小游戏 🥛_
 
 浏览量超10,000,000+
 
-Github Page:https://PokersKun.github.io/EatAsuka/index.html
+Github Page：https://PokersKun.github.io/EatAsuka/index.html
 
 ## 可选功能
 
